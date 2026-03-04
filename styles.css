@@ -3,6 +3,7 @@
     margin: 1rem;
 }
 div{
+    background-color: orange;
 }
 div p{
     padding: 1rem;
@@ -13,7 +14,7 @@ div p{
         font-size: 1.2rem;
     }
     div{
-        background-color: orange;
+        
         display: flex;
         font-size: 1.5rem;
     }
@@ -25,4 +26,5 @@ div p{
     div{
         font-size: 2rem;
     }
+
 }
