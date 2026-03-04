@@ -1,0 +1,28 @@
+*{
+    background-color: #dedede;
+    margin: 1rem;
+}
+div{
+}
+div p{
+    padding: 1rem;
+    border: solid red 2px;
+}
+@media (min-width: 600px){
+    header{
+        font-size: 1.2rem;
+    }
+    div{
+        background-color: orange;
+        display: flex;
+        font-size: 1.5rem;
+    }
+}
+@media (min-width: 1000px){
+    header{
+        font-size: 1.8rem;
+    }
+    div{
+        font-size: 2rem;
+    }
+}
