@@ -16,18 +16,16 @@ h2{
     align-items: center;
     justify-content: center;
     block-size: 3rem;
+    margin-top: 4rem;
 }
 div{
     display: flex;
-    align-items: cendter;
     width: 300px;
+    font-size: 1.3rem;
+    line-height: 2.5rem;
 }
 .linea{
     flex: 1;
     border-bottom: 2px dashed #7A3911;
     margin: 0 10px;
 }
-div{
-    line-height: 2rem;
-}
-
