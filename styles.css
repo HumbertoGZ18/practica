@@ -22,10 +22,11 @@ div{
     display: flex;
     width: 300px;
     font-size: 1.3rem;
-    line-height: 2.5rem;
+    line-height: 2.8rem;
 }
 .linea{
     flex: 1;
     border-bottom: 2px dashed #7A3911;
     margin: 0 10px;
 }
+
