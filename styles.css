@@ -24,12 +24,21 @@ h2{
     justify-content: center;
     block-size: 3rem;
     margin-top: 4rem;
+
 }
 div{
     display: flex;
     width: 300px;
     font-size: 1.3rem;
     line-height: 2.8rem;
+    background-color: transparent;
+    font-weight:bold;
+}
+span{
+    background-color: transparent;
+}
+p{
+    background-color: transparent;
 }
 .linea{
     flex: 1;
@@ -40,9 +49,70 @@ div{
     position: absolute;
     top: -3rem;
     left: -3rem;
-    width: 150px;
+    width: 160px;
 }
 header{
     position: relative;
     height: 20px;
+}
+.fondo-de-frappes{
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    margin-top: 16rem;
+}
+.fondo-de-bebidas{
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    margin-top: 10rem;
+}
+.fondo-de-te{
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    margin-top: 5rem;
+}
+.fondo-de-crepas{
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    margin-top: 7rem;
+}
+.fondo-de-waffles{
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    margin-top: 14rem;
+}
+.fondo-de-smoothie{
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    margin-top: -1.6rem;
+}
+.fondo-de-salados{
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    margin-top: 2rem;
+}
+.fondo-de-otros{
+    position: absolute;
+    z-index: -1;
+    width: 400px;
+    margin-top: -1rem;
+}
+.mancha-derecha{
+    position: absolute;
+    width:120px;
+    margin-top: -8rem;
+    right: 0rem;
+    z-index: -1;
+}
+.mancha-fondo{
+    position: absolute;
+    width:130px;
+    left: 0rem;
+    z-index: -1;
 }
