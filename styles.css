@@ -48,8 +48,8 @@ p{
 }
 .logo{
     position: absolute;
-    top: -2rem;
-    left: -2rem;
+    top: 0;
+    left: 0;
     width: 160px;
 }
 header{
@@ -125,4 +125,5 @@ header{
     left: 0rem;
     z-index: -1;
 }
+
 
