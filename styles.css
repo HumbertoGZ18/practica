@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    margin: 3rem 3rem 3rem 3rem;
+    margin: 3rem;
     color: #7A3911;
     background-color: transparent;
     overflow-x: hidden;
@@ -59,49 +59,57 @@ header{
 .fondo-de-frappes{
     position: absolute;
     z-index: -1;
-    width: 400px;
+    width: 90%;
+    max-width: 320px;
     margin-top: 16rem;
 }
 .fondo-de-bebidas{
     position: absolute;
     z-index: -1;
-    width: 400px;
+    width: 90%;
+    max-width: 320px;
     margin-top: 10rem;
 }
 .fondo-de-te{
     position: absolute;
     z-index: -1;
-    width: 400px;
+    width: 90%;
+    max-width: 320px;
     margin-top: 5rem;
 }
 .fondo-de-crepas{
     position: absolute;
     z-index: -1;
-    width: 400px;
+    width: 90%;
+    max-width: 320px;
     margin-top: 7rem;
 }
 .fondo-de-waffles{
     position: absolute;
     z-index: -1;
-    width: 400px;
+    width: 90%;
+    max-width: 320px;
     margin-top: 14rem;
 }
 .fondo-de-smoothie{
     position: absolute;
     z-index: -1;
-    width: 400px;
+    width: 90%;
+    max-width: 320px;
     margin-top: -1.6rem;
 }
 .fondo-de-salados{
     position: absolute;
     z-index: -1;
-    width: 400px;
+    width: 90%;
+    max-width: 320px;
     margin-top: 2rem;
 }
 .fondo-de-otros{
     position: absolute;
     z-index: -1;
-    width: 400px;
+    width: 90%;
+    max-width: 320px;
     margin-top: -1rem;
 }
 .mancha-derecha{
@@ -117,4 +125,3 @@ header{
     left: 0rem;
     z-index: -1;
 }
-
