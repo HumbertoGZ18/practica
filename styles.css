@@ -6,12 +6,16 @@
     box-sizing: border-box;
 }
 body{
-    margin: 3rem 4rem 3rem 3rem;
+    margin: 3rem 3rem 3rem 3rem;
     color: #7A3911;
+    background-color: transparent;
 }
 h1{
     font-size: 3.5rem;
     text-align: center;
+    position: relative;
+    z-index: 2;
+    background-color: transparent;
 }
 h2{
     background-color: rgb(220, 210, 195);
@@ -32,5 +36,13 @@ div{
     border-bottom: 2px dashed #7A3911;
     margin: 0 10px;
 }
-
-
+.logo{
+    position: absolute;
+    top: -3rem;
+    left: -3rem;
+    width: 150px;
+}
+header{
+    position: relative;
+    height: 20px;
+}
