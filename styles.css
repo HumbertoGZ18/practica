@@ -9,6 +9,7 @@ body{
     margin: 3rem 3rem 3rem 3rem;
     color: #7A3911;
     background-color: transparent;
+    overflow-x: hidden;
 }
 h1{
     font-size: 3.5rem;
@@ -116,3 +117,4 @@ header{
     left: 0rem;
     z-index: -1;
 }
+
