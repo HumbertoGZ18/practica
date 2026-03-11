@@ -146,3 +146,59 @@ header{
     right: -3rem;
     transform: rotate(180deg);
 }
+.frappe{
+    position: absolute;
+    background-color: transparent;
+    width:30%;
+    margin-left: 0.25rem;
+    margin-top: -9rem;
+}
+.cafe-caliente{
+    position: absolute;
+    background-color: transparent;
+    width:20%;
+    margin-left: -2rem;
+    margin-top: -6rem;
+}
+.te-frio{
+    position: absolute;
+    background-color: transparent;
+    width:18%;
+    margin-left: 17.5rem;
+    margin-top: -6rem;
+}
+.crepas{
+    position: absolute;
+    background-color: transparent;
+    width:30%;
+    margin-left: 14rem;
+    margin-top: -6rem;
+}
+.waffles{
+    position: absolute;
+    background-color: transparent;
+    width:30%;
+    margin-left: -1rem;
+    margin-top: -6rem;
+}
+.smoothie{
+    position: absolute;
+    background-color: transparent;
+    width:20%;
+    margin-left: 1rem;
+    margin-top: -7.2rem;
+}
+.salados{
+    position: absolute;
+    background-color: transparent;
+    width:25%;
+    right: 2rem;
+    margin-top: -7rem;
+}
+.otros{
+    position: absolute;
+    background-color: transparent;
+    width:35%;
+    right: 1rem;
+    margin-top: -6rem;
+}
